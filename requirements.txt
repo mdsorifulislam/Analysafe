@@ -1,1 +1,6 @@
-flask requests pandas tensorflow scikit-learn gunicorn
+flask
+requests
+pandas
+tensorflow
+scikit-learn
+gunicorn
